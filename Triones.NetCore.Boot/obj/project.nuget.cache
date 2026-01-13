@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7g9VSqKoYx0=",
+  "success": true,
+  "projectFilePath": "D:\\develop\\workspace\\triones\\nuget\\TrionesNetCore\\Triones.NetCore.Boot\\Triones.NetCore.Boot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fengx\\.nuget\\packages\\autofac\\8.1.0\\autofac.8.1.0.nupkg.sha512",
+    "C:\\Users\\fengx\\.nuget\\packages\\autofac.extensions.dependencyinjection\\10.0.0\\autofac.extensions.dependencyinjection.10.0.0.nupkg.sha512",
+    "C:\\Users\\fengx\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.0\\microsoft.extensions.dependencymodel.10.0.0.nupkg.sha512",
+    "C:\\Users\\fengx\\.nuget\\packages\\scrutor\\7.0.0\\scrutor.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
