@@ -1,4 +1,4 @@
 <Solution>
-    <Project Path="Triones.NetCore.Boot/Triones.NetCore.Boot.csproj" />
-    <Project Path="Triones.NetCore/Triones.NetCore.csproj" />
+    <Project Path="Triones.Boot\Triones.Boot.csproj" />
+    <Project Path="Triones.Extensions\Triones.Extensions.csproj" />
 </Solution>
