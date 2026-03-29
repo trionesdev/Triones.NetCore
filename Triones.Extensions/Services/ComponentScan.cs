@@ -3,10 +3,10 @@ using Autofac.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Triones.NetCore.Extensions.beans;
-using Triones.NetCore.Extensions.Stereotype;
+using Triones.Extensions.beans;
+using Triones.Extensions.Stereotype;
 
-namespace Triones.NetCore.Extensions.Services;
+namespace Triones.Extensions.Services;
 
 public static class ComponentScan
 {

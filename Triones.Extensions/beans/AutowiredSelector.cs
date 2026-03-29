@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using Autofac.Core;
 
-namespace Triones.NetCore.Extensions.beans;
+namespace Triones.Extensions.beans;
 
 public class AutowiredSelector : IPropertySelector
 {

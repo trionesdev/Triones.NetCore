@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Builder;
+using Triones.Extensions.Services;
 using Triones.NetCore.Boot.Properties;
-using Triones.NetCore.Extensions.Services;
 
 namespace Triones.NetCore.Boot
 {
